@@ -6,8 +6,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-username = 'marakmuna9@gmail.com'
-password = 'Virtu4llyT3stingF0und4ti0n'
+username = ''
+password = ''
 
 driver = webdriver.Chrome('chromedriver')
 #webbrowser.open('https://jobs.virtuallytestingfoundation.org/job/csinternship/dashboard')
