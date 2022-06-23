@@ -4,8 +4,8 @@ import smtplib
 import os
 from email.message import EmailMessage
 #######################################################
-email = 'b19cs020@nitm.ac.in'
-password = 'b19cs020'
+email = 'mail'
+password = 'pass'
 print(email)
 semail =  input("reciever email:")
 sub = input("subject: ")
