@@ -3,6 +3,6 @@ Yellow='\033[0;33m'
 BRed='\033[1;31m'         # Red
 BGreen='\033[1;32m]'
 Cyan='\033[0;36m'
-printf "${Cyan}git-token ${BRed}= > ${Yellow}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"
+printf "${Cyan}git-token ${BRed}= > ${Yellow}__"
 echo -e "\n"
 
